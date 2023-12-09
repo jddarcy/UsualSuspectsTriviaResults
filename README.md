@@ -10,3 +10,6 @@ Results of trivia competitions of "The Usual Suspects"
 ## Redwood City Trivia Bee
 * 2014 -- 3rd place
 * 2013 -- 2nd place
+
+## Santa Cruz Trivia Challenge
+* 2016 -- 2nd place

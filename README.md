@@ -1,6 +1,7 @@
 # UsualSuspectsTriviaResults
 Results of trivia competitions of "The Usual Suspects"
 ## South San Francisco Project Read Trivia Bee
+* 2024 -- 3rd place
 * 2023 -- 2nd place
 * 2022 -- 2nd place
 * 2021 -- 1st place
